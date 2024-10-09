@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
+                "file": "Lectures/Computing/Computing I/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
+                "file": "Lectures/Computing/Computing I/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
+                "file": "Lectures/Computing/Computing I/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md"
+                "file": "Lectures/Computing/Computing I/Introduction.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "7c58a8d8d7b3597d",
   "lastOpenFiles": [
+    "Lectures/Computing/Computing I/The Role of Professional Bodies.md",
+    "Lectures/Computing/Computing I/Introduction.md",
     "Note Template.md",
     "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
+    "Lectures/Computing/Computing I/Untitled.md",
     "Lectures/Software Development & Design/Software Engineering",
     "Lectures/Software Development & Design/UX & Collaborative Development",
     "Lectures/Programming/Web Development",
