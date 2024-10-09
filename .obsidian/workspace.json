@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md.md",
+                "file": "Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md.md",
+                "file": "Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md.md",
+                "file": "Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md.md"
+                "file": "Note Template.md"
               }
             }
           },
@@ -155,8 +155,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d0a0224dd509fe7",
+  "active": "7c58a8d8d7b3597d",
   "lastOpenFiles": [
-    "test.md.md"
+    "Lectures/Software Development & Design/Software Engineering",
+    "Lectures/Software Development & Design/UX & Collaborative Development",
+    "Lectures/Programming/Web Development",
+    "Lectures/Programming/Programming I",
+    "Lectures/Programming/Programming Foundation",
+    "Lectures/Mathematics/Databases I",
+    "Lectures/Mathematics/Maths for Computing",
+    "Lectures/Cybersecurity/Cybersecurity I",
+    "Lectures/Cybersecurity/Cybersecurity Foundation",
+    "Lectures/Computing/Operating Systems & Hardware",
+    "Lectures/Computing/Computing I",
+    "test.md.md",
+    "Note Template.md"
   ]
 }
