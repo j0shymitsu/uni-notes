@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Template.md",
+                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Template.md",
+                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Template.md",
+                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Template.md"
+                "file": "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "7c58a8d8d7b3597d",
   "lastOpenFiles": [
+    "Note Template.md",
+    "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
     "Lectures/Software Development & Design/Software Engineering",
     "Lectures/Software Development & Design/UX & Collaborative Development",
     "Lectures/Programming/Web Development",
@@ -167,8 +169,6 @@
     "Lectures/Cybersecurity/Cybersecurity I",
     "Lectures/Cybersecurity/Cybersecurity Foundation",
     "Lectures/Computing/Operating Systems & Hardware",
-    "Lectures/Computing/Computing I",
-    "test.md.md",
-    "Note Template.md"
+    "test.md.md"
   ]
 }
