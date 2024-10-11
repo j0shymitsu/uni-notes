@@ -1,6 +1,6 @@
 
 Date: --
-Topics: Cybersecurity, 
+Topics: 
 
 ---
 
@@ -10,21 +10,22 @@ Topics: Cybersecurity,
 -
 -
 
---- 
+---
+
 
 ## Detailed Notes
 
 
 ### Concept 1
 
-	-
-	-
-	-
+-
+-
+-
 
 ### Concept 2
 
-	-
-	-
+-
+-
 
 
 ---

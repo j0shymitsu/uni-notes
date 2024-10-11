@@ -1,6 +1,6 @@
 
 Date: 30-09-24
-Topics: Cybersecurity, security; threats, vulnerabilities and attacks; security measures and controls.
+Topics: Cybersecurity, [[Security.png|security]]; threats, vulnerabilities and attacks; security measures and controls.
 
 ---
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6d2df5ee5d2ecf6",
+        "id": "79f18b2047b868e6",
         "type": "tabs",
         "children": [
           {
-            "id": "5d0a0224dd509fe7",
+            "id": "e158128a789da6b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md"
+                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md"
               }
             }
           },
@@ -156,26 +156,41 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5d0a0224dd509fe7",
+  "active": "e158128a789da6b2",
   "lastOpenFiles": [
-    "[CIA Triad]().md",
     "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
-    "security.png",
-    "Note Template.md",
-    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
+    "(diagram).md",
+    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+    "Diagrams/Internal Communication Paths.png",
+    "$$$ Note Template.md",
+    "Glossary/I2C.md",
+    "Glossary/DMA.md",
+    "Glossary/PCIe.md",
+    "Glossary/Virtual Memory.md",
+    "Glossary/Memory Addresses.md",
     "Lectures/Computing/Computing I/1 Introduction.md",
+    "Diagrams/Motherboard.png",
+    "Glossary/NIC.md",
+    "Diagrams",
+    "Glossary/NAS.md",
+    "Glossary/UEFI.md",
+    "Glossary/HD & SSD controllers.md",
+    "HD/SSD contr[[HD & SSD controllers.md",
+    "HD",
+    "Glossary",
+    "Diagrams/Security.png",
+    "Security.md",
+    "Images",
+    "Lectures/Cybersecurity/Img",
+    "Images",
+    "[CIA Triad]().md",
+    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
     "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
     "Lectures/Computing/Computing I/Untitled.md",
     "Lectures/Software Development & Design/Software Engineering",
     "Lectures/Software Development & Design/UX & Collaborative Development",
     "Lectures/Programming/Web Development",
     "Lectures/Programming/Programming I",
-    "Lectures/Programming/Programming Foundation",
-    "Lectures/Mathematics/Databases I",
-    "Lectures/Mathematics/Maths for Computing",
-    "Lectures/Cybersecurity/Cybersecurity I",
-    "Lectures/Cybersecurity/Cybersecurity Foundation",
-    "Lectures/Computing/Operating Systems & Hardware",
     "test.md.md"
   ]
 }
