@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,9 +158,10 @@
   },
   "active": "e158128a789da6b2",
   "lastOpenFiles": [
+    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
+    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
     "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
     "(diagram).md",
-    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
     "Diagrams/Internal Communication Paths.png",
     "$$$ Note Template.md",
     "Glossary/I2C.md",
@@ -184,7 +185,6 @@
     "Lectures/Cybersecurity/Img",
     "Images",
     "[CIA Triad]().md",
-    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
     "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
     "Lectures/Computing/Computing I/Untitled.md",
     "Lectures/Software Development & Design/Software Engineering",
