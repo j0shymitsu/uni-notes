@@ -1,6 +1,6 @@
 
-Date: {{DD-MM-YY}}
-Topic: 
+Date: --
+Topics: Cybersecurity, 
 
 ---
 
@@ -29,10 +29,12 @@ Topic:
 
 ---
 
-## Action Items
+## To-do
 
 - [ ] 
 
 ---
 
 ## Reading List
+
+- [ ] 

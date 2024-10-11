@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Computing/Computing I/Introduction.md",
+                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Computing/Computing I/Introduction.md",
+                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Computing/Computing I/Introduction.md",
+                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Computing/Computing I/Introduction.md"
+                "file": "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md"
               }
             }
           },
@@ -152,15 +152,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7c58a8d8d7b3597d",
+  "active": "5d0a0224dd509fe7",
   "lastOpenFiles": [
-    "Lectures/Computing/Computing I/The Role of Professional Bodies.md",
-    "Lectures/Computing/Computing I/Introduction.md",
+    "[CIA Triad]().md",
+    "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+    "security.png",
     "Note Template.md",
-    "Lectures/Computing/Computing Foundation/Introduction to Algorithms.md",
+    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
+    "Lectures/Computing/Computing I/1 Introduction.md",
+    "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
     "Lectures/Computing/Computing I/Untitled.md",
     "Lectures/Software Development & Design/Software Engineering",
     "Lectures/Software Development & Design/UX & Collaborative Development",

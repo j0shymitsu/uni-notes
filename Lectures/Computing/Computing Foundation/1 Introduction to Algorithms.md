@@ -1,8 +1,6 @@
 
 Date: 2023-10-03
-Module: 
-Lecturer: 
-Topic:
+Topics:
 
 ---
 
