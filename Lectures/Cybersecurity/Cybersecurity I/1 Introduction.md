@@ -8,7 +8,6 @@ Topics: Cybersecurity, [[Security.png|security]]; threats, vulnerabilities and a
 
 -  As technology continues to evolve over time, so do the associated security challenges.
 -  Cybersecurity: "The ability to protect or defend the use of cyberspace from cyber attacks."
--
 
 --- 
 

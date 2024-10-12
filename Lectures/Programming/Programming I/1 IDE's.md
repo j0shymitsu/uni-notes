@@ -1,6 +1,6 @@
 
-Date: --
-Topics: 
+Date: 01/10/24
+Topics: Java, IDE's, variables, data types, strings, input & output
 
 ---
 
@@ -11,6 +11,7 @@ Topics:
 -
 
 ---
+
 
 ## Detailed Notes
 
@@ -26,8 +27,8 @@ Topics:
 -
 -
 
----
 
+---
 
 ## To-do
 
