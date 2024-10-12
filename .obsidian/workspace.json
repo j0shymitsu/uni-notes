@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+                "file": "Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 325.5
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+                "file": "Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+                "file": "Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md"
+                "file": "Note Template.md"
               }
             }
           },
@@ -156,46 +156,47 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e158128a789da6b2",
+  "active": "7c58a8d8d7b3597d",
   "lastOpenFiles": [
+    "Lectures/Programming/Programming I/2 If, Else & Switch Statements.md",
+    "Lectures/Programming/Programming I/3 While Loops & Logical Operators.md",
+    "Lectures/Programming/Programming I/1 IDE's.md",
+    "Glossary/+ Worm.md",
+    "Glossary/+ Virtual Memory.md",
+    "Glossary/NIC.md",
+    "Glossary/+ Virtual Machines.md",
+    "Glossary/+ UEFI.md",
+    "Glossary/+ Trojan Horse.md",
+    "Glossary/+ TCP.md",
+    "Glossary/Network Adaptors.md",
+    "Glossary/+ RAM.md",
+    "Glossary/+ Memory Addresses.md",
+    "Glossary/+ Memory Mapping.md",
+    "Glossary/+ PCIe.md",
+    "Glossary/+ NAS.md",
+    "Glossary/+ Backdoor.md",
+    "Glossary/+ I2C.md",
+    "Glossary/+ HD & SSD controllers.md",
+    "Glossary/+ Dynamic Libraries.md",
+    "Glossary/+ DMA.md",
+    "Glossary/+ Botnet.md",
+    "Glossary/+ Demand Paging.md",
+    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+    "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+    "Manuals & References/Static and Dynamic Analysis.pdf",
+    "Manuals & References/Linux - Program Compilation Step by Step.pdf",
+    "Manuals & References/Clause by clause explanation of ISO 27001.pdf",
     "Diagrams/Security.png",
     "Diagrams/Northbridge & Southbridge.png",
     "Diagrams/Internal Communication Paths.png",
     "Diagrams/Motherboard.png",
-    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
-    "Glossary/Network Adaptors.md",
-    "Glossary/NAS.md",
-    "Glossary/TCP.md",
-    "Glossary/NIC.md",
-    "Glossary/PCIe.md",
-    "Glossary/RAM.md",
-    "Glossary/UEFI.md",
-    "Glossary/Virtual Memory.md",
-    "Glossary/Virtual Machines.md",
-    "Glossary/Memory Addresses.md",
-    "Glossary/Memory Mapping.md",
-    "Glossary/I2C.md",
-    "Glossary/HD & SSD controllers.md",
-    "Glossary/Dynamic Libraries.md",
-    "Glossary/DMA.md",
-    "Glossary/Demand Paging.md",
-    "$$$ Note Template.md",
-    "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
-    "Lectures/Programming/Programming I/3 While Loops & Logical Operators.md",
-    "Lectures/Programming/Programming I/2 If, Else & Switch Statements.md",
-    "Lectures/Programming/Programming I/1 IDE's.md",
-    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
-    "(diagram).md",
-    "Lectures/Computing/Computing I/1 Introduction.md",
+    "Note Template.md",
     "Diagrams",
     "HD",
     "Glossary",
     "Images",
     "Lectures/Cybersecurity/Img",
     "Images",
-    "Lectures/Software Development & Design/Software Engineering",
-    "Lectures/Software Development & Design/UX & Collaborative Development",
-    "Lectures/Programming/Web Development",
-    "Lectures/Programming/Programming I"
+    "Lectures/Software Development & Design/Software Engineering"
   ]
 }

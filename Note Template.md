@@ -1,13 +1,11 @@
 
-Date: --
+Date: 
 Topics: 
 
 ---
 
 ## Key Concepts
 
--
--
 -
 
 ---
@@ -17,18 +15,12 @@ Topics:
 
 ### Concept 1
 
--
--
--
-
 ### Concept 2
 
--
--
+
+
 
 ---
-
-
 ## To-do
 
 - [ ] 

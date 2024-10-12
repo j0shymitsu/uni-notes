@@ -114,8 +114,8 @@ Before an application is executed, the process of getting the program off the di
 
 - [x]  Kali Linux bootable drive
 - [x] Set up Kali in VM
-- [ ] Kali Linux bundle tools
-- [ ] Set up a host-only adaptor on Kali Linux in a VM
+- [x] Kali Linux bundle tools
+- [x] Set up a host-only adaptor on Kali Linux in a VM
 
 ---
 
