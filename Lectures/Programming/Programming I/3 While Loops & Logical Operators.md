@@ -7,8 +7,11 @@ Topics: Java, while loops, logical operators
 ## Key Concepts
 
 -  While loops run a piece of code until a condition is met
+<<<<<<< HEAD
 -  
 -
+=======
+>>>>>>> origin/main
 
 ---
 
