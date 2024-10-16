@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Computing/Computing I/3 Security Obligations.md",
+                "file": "Note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Computing/Computing I/3 Security Obligations.md",
+                "file": "Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Computing/Computing I/3 Security Obligations.md",
+                "file": "Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Computing/Computing I/3 Security Obligations.md"
+                "file": "Note Template.md"
               }
             }
           },
@@ -159,12 +158,14 @@
   },
   "active": "e158128a789da6b2",
   "lastOpenFiles": [
-    "Glossary/IDS.md",
-    "Lectures/Computing/Computing I/3 Security Obligations.md",
-    "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
+    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
     "Lectures/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
-    "conflict-files-obsidian-git.md",
+    "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
     "Note Template.md",
+    "Lectures/Computing/Computing I/3 Security Obligations.md",
+    "Glossary/IDS.md",
+    "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
+    "conflict-files-obsidian-git.md",
     "Glossary/Network Adaptors.md",
     "Glossary/+ Worm.md",
     "Glossary/+ Virtual Memory.md",
@@ -183,9 +184,7 @@
     "Glossary/+ Demand Paging.md",
     "Glossary/+ DMA.md",
     "Glossary/+ Botnet.md",
-    "Glossary/+ Backdoor.md",
     "Diagrams/Northbridge & Southbridge.png",
-    "Lectures/Computing/Operating Systems & Hardware/1 A Brief History of Computers.md",
     "Diagrams/Internal Communication Paths.png",
     "Diagrams/Motherboard.png",
     "Diagrams",
