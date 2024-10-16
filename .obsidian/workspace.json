@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Template.md",
+                "file": "Lectures/Mathematics/Databases I/1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Template.md",
+                "file": "Lectures/Mathematics/Databases I/1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Template.md",
+                "file": "Lectures/Mathematics/Databases I/1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Template.md"
+                "file": "Lectures/Mathematics/Databases I/1 Introduction.md"
               }
             }
           },
@@ -159,14 +160,18 @@
   "active": "e158128a789da6b2",
   "lastOpenFiles": [
     "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
-    "Lectures/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
     "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+    "Lectures/Mathematics/Databases I/1 Introduction.md",
+    "Glossary/+ Turing Test.md",
+    "Glossary/+ Turing Machine.md",
+    "Glossary/Network Adaptors.md",
+    "Glossary/+ IDS.md",
+    "Glossary/+ Normalisation.md",
     "Note Template.md",
+    "Lectures/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
     "Lectures/Computing/Computing I/3 Security Obligations.md",
-    "Glossary/IDS.md",
     "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
     "conflict-files-obsidian-git.md",
-    "Glossary/Network Adaptors.md",
     "Glossary/+ Worm.md",
     "Glossary/+ Virtual Memory.md",
     "Glossary/+ Virtual Machines.md",
@@ -180,10 +185,6 @@
     "Glossary/+ Memory Addresses.md",
     "Glossary/+ I2C.md",
     "Glossary/+ HD & SSD controllers.md",
-    "Glossary/+ Dynamic Libraries.md",
-    "Glossary/+ Demand Paging.md",
-    "Glossary/+ DMA.md",
-    "Glossary/+ Botnet.md",
     "Diagrams/Northbridge & Southbridge.png",
     "Diagrams/Internal Communication Paths.png",
     "Diagrams/Motherboard.png",
