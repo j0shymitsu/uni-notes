@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md",
+                "file": "Lectures/Computing/Computing I/3 Security Obligations.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md",
+                "file": "Lectures/Computing/Computing I/3 Security Obligations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md",
+                "file": "Lectures/Computing/Computing I/3 Security Obligations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md"
+                "file": "Lectures/Computing/Computing I/3 Security Obligations.md"
               }
             }
           },
@@ -158,9 +159,10 @@
   },
   "active": "e158128a789da6b2",
   "lastOpenFiles": [
+    "Glossary/IDS.md",
+    "Lectures/Computing/Computing I/3 Security Obligations.md",
     "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
     "Lectures/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
-    "Lectures/Computing/Computing I/$$$ Note Template 1.md",
     "conflict-files-obsidian-git.md",
     "Note Template.md",
     "Glossary/Network Adaptors.md",
@@ -184,7 +186,6 @@
     "Glossary/+ Backdoor.md",
     "Diagrams/Northbridge & Southbridge.png",
     "Lectures/Computing/Operating Systems & Hardware/1 A Brief History of Computers.md",
-    "Glossary/Turing Test.md",
     "Diagrams/Internal Communication Paths.png",
     "Diagrams/Motherboard.png",
     "Diagrams",
