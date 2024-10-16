@@ -14,7 +14,6 @@ Topics: Cybersecurity, hardware, computer architecture, virtual machines, virtua
 
 ## Detailed Notes
 
-
 ### Types of Computers
 
 -  Desktops
@@ -55,27 +54,20 @@ Handles memory related operations. It is ==integrated into the processor== and m
 
 
 ---
-
-##### "*How do you write/send data to other chips and not just to locations in memory?*" -
+## Practical
+#### "How do you write/send data to other chips and not just to locations in memory?" -
 To write or send data to other chips and not just locations in memory, there are several mechanisms and interfaces used in modern computer systems:
 -  [[PCIe]]
 -  [[DMA]]
 -  Inter-Integrated Circuit ([[I2C]]) and Serial Peripheral Interfaces
 -  USB
 
-##### "*Before an application is executed, how do you get the program off the disk into memory/ram?*" -
+#### "Before an application is executed, how do you get the program off the disk into memory/ram?" -
 Before an application is executed, the process of getting the program off the disk and into memory/RAM typically involves the following steps:
 
 1. ==Program Loading==:
 	- The operating systems loader reads the executable file from disk.
 	- Examines the file's headers to determine memory requirements
-
-
----
-
-## To-do
-
-- [ ] 
 
 ---
 

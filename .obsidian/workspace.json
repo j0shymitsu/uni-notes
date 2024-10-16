@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md"
+                "file": "Lectures/Computing/Computing I/$$$ Note Template 1.md"
               }
             }
           },
@@ -142,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +157,22 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e158128a789da6b2",
+  "active": "7c58a8d8d7b3597d",
   "lastOpenFiles": [
-    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
+    "Lectures/Computing/Operating Systems & Hardware/1 A Brief History of Computers.md",
+    "Lectures/Computing/Computing I/$$$ Note Template 1.md",
+    "Glossary/Turing Test.md",
+    "Glossary/Turing Machine.md",
+    "Lectures/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
     "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+    "$$$ Note Template.md",
+    "Lectures/Programming/Programming I/3 While Loops & Logical Operators.md",
+    "Lectures/Programming/Programming I/2 If, Else & Switch Statements.md",
+    "Lectures/Programming/Programming I/1 IDE's.md",
     "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
+    "Lectures/Computing/Computing Foundation/1 Introduction to Algorithms.md",
     "(diagram).md",
     "Diagrams/Internal Communication Paths.png",
-    "$$$ Note Template.md",
     "Glossary/I2C.md",
     "Glossary/DMA.md",
     "Glossary/PCIe.md",
@@ -185,12 +194,9 @@
     "Lectures/Cybersecurity/Img",
     "Images",
     "[CIA Triad]().md",
-    "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
-    "Lectures/Computing/Computing I/Untitled.md",
     "Lectures/Software Development & Design/Software Engineering",
     "Lectures/Software Development & Design/UX & Collaborative Development",
     "Lectures/Programming/Web Development",
-    "Lectures/Programming/Programming I",
-    "test.md.md"
+    "Lectures/Programming/Programming I"
   ]
 }
