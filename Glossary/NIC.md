@@ -1,4 +1,4 @@
-(**N**ETWORK **I**NTERFACE **C**ARD)
+**N**ETWORK **I**NTERFACE **C**ARD
 
 A hardware component that allows a computer to connect to a network (wired or wireless).
 

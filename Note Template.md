@@ -1,21 +1,28 @@
 
-Date: 
+Date:
 Topics: 
 
 ---
 ## Key Concepts
 
+- 
 
 ---
 ## Detailed Notes
+### Concept
+##### Subheading
 
-### Concept 
+
+### Concept
+##### Subheading
 
 
 ---
 ## Practical
+#### Questions
 
-#### Task
+*"Question?"*
+	- Answer
 
 ---
 ## Reading List
