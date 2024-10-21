@@ -47,7 +47,7 @@ The [CIA Triad](https://www.techtarget.com/whatis/definition/Confidentiality-int
 ##### Actors, Attackers and Targets:
 ==Actors in cybersecurity are individuals or groups that engage in malicious activities== in the digital realm.
 Attackers are essentially the same as threat actors, but the term emphasises their active role in carrying out malicious activities. They ==exploit vulnerabilities in computer systems==.
-Targets are the individuals, organisations or systems that threat actors aim to compromise or exploit.
+==Targets are the individuals, organisations or systems that threat actors aim to compromise== or exploit.
 
 ##### Threats, Vulnerabilities and Attacks:
 - A *vulnerability* (loophole or weakness) in a system exposes it to a threat of being exploited by attackers.
@@ -61,14 +61,14 @@ Targets are the individuals, organisations or systems that threat actors aim to 
 
 ##### Malware:
 - Malware is a form of *malicious software* which often masquerades itself as part of legitimate software.
-- Some malware such as [[trojan horses]], viruses, and [[backdoors]] may require a host program to hide their attacks while others such as [[botnets]] and [[worms]] propagate independently.
+- Some malware such as [[Trojan Horse|trojan horses]], viruses, and [[Backdoor|backdoors]] may require a host program to hide their attacks while others such as [[Botnet|botnets]] and [[Worm|worms]] propagate independently.
 
 
 ---
 
 ## To-do
 
-- [ ] Exploits in the News
+- [x] Exploits in the News
 
 ---
 
