@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7422723fc74b5f7b",
+        "id": "b0b87653ebea6509",
         "type": "tabs",
         "children": [
           {
-            "id": "df73c02fb9d737ea",
+            "id": "c57d135a3b294961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Trojan Horse.md",
+                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/4 Windows Registry & Backdoors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trojan Horse"
+              "title": "4 Windows Registry & Backdoors"
+            }
+          },
+          {
+            "id": "bfadb08b0b71d53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Backdoor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backdoor"
             }
           }
         ]
@@ -77,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0aae2ba9ee2fd725",
@@ -174,16 +189,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "df73c02fb9d737ea",
+  "active": "c57d135a3b294961",
   "lastOpenFiles": [
-    "Lecture Notes/Cybersecurity/Cybersecurity I/1 Introduction.md",
     "Glossary/Backdoor.md",
-    "Glossary/Trojan Horse.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/4 Windows Registry & Backdoors.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
     "Lecture Notes/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/1 Introduction.md",
+    "Glossary/HD & SSD controllers.md",
+    "Glossary/Trojan Horse.md",
     "backdoors.md",
     "trojan horses.md",
     "Glossary/NAS.md",
-    "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
     "Lecture Notes/Mathematics/Databases I/2 Relational Model and Normalisation.md",
     "Lecture Notes/Computing/Computing I/1 A Brief History of Computers.md",
     "Lecture Notes/Computing/Professional Skills for Computing/3 Security Obligations.md",
@@ -205,8 +222,6 @@
     "Glossary/PCIe.md",
     "Glossary/Normalisation.md",
     "Glossary/Memory Mapping.md",
-    "Glossary/Memory Addresses.md",
-    "Glossary/IDS.md",
     "Manuals & References/Static and Dynamic Analysis.pdf",
     "Manuals & References/Clause by clause explanation of ISO 27001.pdf",
     "Diagrams/Northbridge & Southbridge.png",
