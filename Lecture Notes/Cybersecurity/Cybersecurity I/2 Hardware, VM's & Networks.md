@@ -34,11 +34,11 @@ Topics: Cybersecurity, hardware, computer architecture, virtual machines, virtua
 ##### Control Bus:
 A ==bidirectional== component of a computers internal communication system that manages and coordinates the flow of information between the CPU and other hardware. It transmits control signals and commands, such as read/write, interrupt and clock signals. ==This ensures operations are carried out in the correct sequence.==
 ##### Address Bus:
-A ==unidirectional== component that carries [[memory addresses]] for data storage or retrieval from the CPU to memory or I/O devices. The address bus specifies the physical location in memory where data is to be read from or written to.
+A ==unidirectional== component that carries [[Memory Addresses]] for data storage or retrieval from the CPU to memory or I/O devices. The address bus specifies the physical location in memory where data is to be read from or written to.
 ##### Data Bus:
 A ==bidirectional== subsystem that transfers actual data to and from components.
 ##### MMU (Memory Management Unit):
-Handles memory related operations. It is ==integrated into the processor== and manages all aspects of memory and caching operations associated with the processor. Also enables the use of [[virtual memory]].
+Handles memory related operations. It is ==integrated into the processor== and manages all aspects of memory and caching operations associated with the processor. Also enables the use of [[Virtual Memory]].
 ##### Northbridge & Southbridge:
 A distinction in computer architecture. The [[Northbridge & Southbridge.png|northbridge]] is located closer to the CPU on the motherboard, and manages flow between the CPU, RAM and graphics card. The [[Northbridge & Southbridge.png|southbridge]] is located further from the CPU and handles slower I/O operations.
 
@@ -85,12 +85,12 @@ Before an application is executed, the process of getting the program off the di
 	- This doesn't necessarily copy all data into [[RAM]] immediately.
 4. ==Initial Loading==:
 	- Critical sections of the program (like the entry point) are loaded into physical memory.
-	- Other sections may be loaded on-demand later ([[demand paging]]).
+	- Other sections may be loaded on-demand later ([[Demand Paging]]).
 5. ==Address Resolution==:
 	- The loader adjusts [[Memory Addresses|memory addresses]] in the program if necessary (relocation).
 6. ==Initialisation==:
 	- The programs static data is initialised.
-	- [[Dynamic libraries]] are loaded if required.
+	- [[Dynamic Libraries]] are loaded if required.
 7. ==Execution Preparation==:
 	- The CPU registers, including the program counter, are set up.
 8. ==Control Transfer==:

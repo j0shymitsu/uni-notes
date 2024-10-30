@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
+                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "5 Information Security, Access Control, Number Systems and File Permissions"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
+                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5 Information Security, Access Control, Number Systems and File Permissions"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
+                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5 Information Security, Access Control, Number Systems and File Permissions"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,24 +139,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md"
-              }
-            }
-          },
-          {
-            "id": "531e9aa7e1f2a2f9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5 Information Security, Access Control, Number Systems and File Permissions"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,32 +167,33 @@
   },
   "active": "8391b14f0c661a1a",
   "lastOpenFiles": [
+    "Diagrams/DAD Triad.png",
     "Lecture Notes/Cybersecurity/Cybersecurity I/4 Windows Registry & Backdoors.md",
-    "Lectures/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
-    "words.md",
-    "Lectures/Mathematics/Databases I/2 Relational Model and Normalisation.md",
-    "Lectures/Mathematics/Databases I/1 Introduction.md",
-    "Note Template.md",
-    "Lectures/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
-    "Lectures/Cybersecurity/Cybersecurity I/1 Introduction.md",
-    "Glossary/+ Turing Test.md",
-    "Glossary/+ Turing Machine.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/1 Introduction.md",
+    "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
+    "Worm.md",
+    "Virtual Memory.md",
+    "Virtual Machines.md",
+    "UEFI.md",
+    "Turing Test.md",
+    "Turing Machine.md",
+    "Glossary/Trojan Horse.md",
+    "Glossary/RAM.md",
+    "Glossary/NIC.md",
     "Glossary/Network Adaptors.md",
-    "Glossary/+ IDS.md",
-    "Glossary/+ Normalisation.md",
-    "Lectures/Computing/Computing I/3 Security Obligations.md",
-    "Lectures/Computing/Computing I/2 The Role of Professional Bodies.md",
-    "conflict-files-obsidian-git.md",
-    "Glossary/+ Worm.md",
-    "Glossary/+ Virtual Memory.md",
-    "Glossary/+ Virtual Machines.md",
-    "Glossary/+ UEFI.md",
-    "Glossary/+ Trojan Horse.md",
-    "Glossary/+ TCP.md",
-    "Glossary/+ RAM.md",
-    "Glossary/+ PCIe.md",
-    "Glossary/+ NAS.md",
-    "Glossary/+ Memory Mapping.md",
+    "TCP.md",
+    "PCIe.md",
+    "One-Way Encryption Algorithm.md",
+    "Normalisation.md",
+    "Glossary/Backdoor.md",
+    "Glossary/CIA Triad.md",
+    "Glossary/CPU.md",
+    "NAS.md",
+    "IDS.md",
+    "Moore's Law.md",
+    "Diagrams/Triangle Paradox.png",
     "Diagrams/Northbridge & Southbridge.png",
     "Diagrams/Internal Communication Paths.png",
     "Diagrams/Motherboard.png",

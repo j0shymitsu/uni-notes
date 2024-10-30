@@ -17,7 +17,7 @@ Topics: Databases, SQL
 ### What is a Database?
 ##### Definition
 - A database is a method of structuring data.
-- It's structure can be written out formally, which is known as [[normalisation]].
+- It's structure can be written out formally, which is known as [[Normalisation]].
 - The design of a database often involves work away from the computer.
 - A database is **not** an application package - It is primarily designed to store, manage, and retrieve. 
 ##### Examples
