@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
+                "file": "Lecture Notes/Computing/Computing I/1 A Brief History of Computers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Information Security, Access Control, Number Systems and File Permissions"
+              "title": "1 A Brief History of Computers"
             }
           }
         ]
@@ -161,18 +161,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "8391b14f0c661a1a",
   "lastOpenFiles": [
+    "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
     "Diagrams/DAD Triad.png",
     "Lecture Notes/Cybersecurity/Cybersecurity I/4 Windows Registry & Backdoors.md",
     "Lecture Notes/Cybersecurity/Cybersecurity I/3 Human Weakness in Cybersecurity.md",
     "Lecture Notes/Cybersecurity/Cybersecurity I/2 Hardware, VM's & Networks.md",
     "Lecture Notes/Cybersecurity/Cybersecurity I/1 Introduction.md",
-    "Lecture Notes/Cybersecurity/Cybersecurity I/5 Information Security, Access Control, Number Systems and File Permissions.md",
     "Worm.md",
     "Virtual Memory.md",
     "Virtual Machines.md",
