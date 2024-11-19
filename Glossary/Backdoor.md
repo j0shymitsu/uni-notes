@@ -1,1 +1,0 @@
-**Any method by which authorized and unauthorized users are able to get around normal security measures to gain high level user access (aka root access) on a computer system, network, or software application.**
