@@ -1,30 +1,13 @@
-
-Date:
-Topics: 
-
----
-## Key Concepts
-
-- 
+# TITLE
+DD-MM-YY
 
 ---
-## Detailed Notes
-### Concept
-##### Subheading
-
-
-### Concept
-##### Subheading
-
+## KEY POINTS
 
 ---
-## Practical
-#### Questions
+## DETAILED NOTES
 
-*"Question?"*
-	- Answer
+### Title
 
 ---
-## Reading List
-
-- [ ] 
+## READING LIST
