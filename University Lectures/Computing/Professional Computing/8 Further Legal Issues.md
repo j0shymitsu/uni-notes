@@ -16,9 +16,10 @@ we can create laws.
 - **NDA's** should be **weighted towards the party revealing the information.**
 
 - In the UK, **computer programs are unpatenable**; Web technology is only protected by **copyright and contract**.
+
+
 ---
 ## DETAILED NOTES
-
 
 ### Computer Misuse Act
 There are three primary offences tied to the Computer Misuse Act:
