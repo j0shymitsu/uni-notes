@@ -24,10 +24,6 @@
 ### Rules & Laws
 
 ---
-## READING LIST
-- [ ]
-
----
 ## TASKS
 - [ ] https://logic.ly/demo - Logic gate simulator
 - [ ] Explore "binary adder"
