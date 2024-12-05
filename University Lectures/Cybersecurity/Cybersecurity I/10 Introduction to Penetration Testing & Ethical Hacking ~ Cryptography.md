@@ -5,11 +5,9 @@
 ---
 ## KEY POINTS
 
-- Penetration testers will not only **discover** vulnerabilities but also aim to **exploit** those vulnerabilities (in
-contrast to a vulnerability assessment).
+- Penetration testers will not only **discover** vulnerabilities but also aim to **exploit** those vulnerabilities (in contrast to a vulnerability assessment).
 
-- To be successful, penetration testing requires a **well thought out process** - **the success of a given task will**
-**depend on the success of the preceding task**.
+- To be successful, penetration testing requires a **well thought out process** - **the success of a given task will depend on the success of the preceding task**.
 
 - The **information gathering phase** is what differentiates a **good** pentester from a **bad** one.
 
@@ -18,10 +16,11 @@ contrast to a vulnerability assessment).
 
 ---
 ## DETAILED NOTES
-
 ### Professional vs Amateur Pen Testers
 
+
 ### Penetration Testing Scope
+
 
 ### Penetration Testing Lifecycle
 *Engagement*
@@ -31,7 +30,9 @@ contrast to a vulnerability assessment).
 *Exploitation*              |
 *Post-exploitation*         ^
 
+
 ### Cryptography
+
 
 ### Diffie-Hellman Key Exchange
 
