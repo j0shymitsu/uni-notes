@@ -1,13 +1,15 @@
 
 Date: 28-10-24
-Topics: Linux, Security
+
 
 ---
 ## Key Concepts
 
 - The [[CIA Triad]] is often seen as the **cornerstone** of Information Security.
 - **Confidentiality is the most common goal**.
+
 - Attackers have three corresponding goals in mind: **disclosure, alteration, and denial**. This is known as the [[DAD Triad.png|DAD Triad.]] 
+
 - A subject should **only be granted access to the bare minimum permissions necessary** - this is the **principle of least privilege.** 
 
 ---

@@ -16,27 +16,36 @@
 
 ---
 ## DETAILED NOTES
-
 ### The OSI Seven-Layer Model
+
 
 ### Stack Model (TCP/IP)
 
+
 ### Node Communication
+
 
 ### Packets
 
+
 ### Encapsulation
 
+
 ### TCP/UDP
+
 
 ### HTTP Response
 (response codes)
 
+
 ### ARP Packets
+
 
 ### Using Wireshark
 
+
 ### Penetration Testing Lifecycle
+
 
 ---
 ## READING LIST
