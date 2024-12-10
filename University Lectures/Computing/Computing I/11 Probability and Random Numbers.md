@@ -6,7 +6,7 @@
 ## KEY POINTS
 
 - The probability of **compound chance** is calculated by **multiplying chances together**: 
-    (For example, tossing a coin 3 times: $1/2 * 1/2 * 1/2 = 1/8$ or $0.125$)
+    - (For example, tossing a coin 3 times: $1/2 * 1/2 * 1/2 = 1/8$ or $0.125$)
 
 
 ---
