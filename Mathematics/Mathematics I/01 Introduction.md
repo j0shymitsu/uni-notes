@@ -3,14 +3,12 @@
 
 ---
 
-## Course Introduction
-### Key Topics:
+## Overview:
 - Welcome and Introductions
 - Course Structure
 - Assessment and Accreditation
 - Mathematics in Computing
 - Preparation for Next Week
-
 
 ---
 
