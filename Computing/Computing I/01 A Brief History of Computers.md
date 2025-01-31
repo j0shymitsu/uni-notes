@@ -1,41 +1,73 @@
-
+# A Brief History of Computers
 Date: 30-09-24
-Topics: Computers, history, circuits, Moore's Law
 
 ---
-## Key Concepts
 
-- The **abacus** can be considered a primitive computer, with advanced users being able to do multiplication, division, and even square and cube roots.
-- Computers started out as **machinery**, utilising things such as looms or **punch cards.**
-- The first digital computers were developed **post WWII** and driven by military need.
-- This then evolved into the **personal computer** age.
----
-## Detailed Notes
-
-### Pioneers of Computing
-##### Charles Babbage
-Developed mechanical calculators during the 19th century, most notably the unfinished Difference Engine.
-##### Ada Lovelace
-Worked alongside the likes of Babbage, and especially interested in the Analytic Engine. Her work let to the first computer "program"; a set of instructions to compute the Bernoulli numbers.
-##### Alan Turing
-An English mathematician, regarded as the father of computer science. He formalised concepts such as algorithms and computation. He gave us the concept of the [[Turing Machine|Turing Machine]] and the [[Turing Test|Turing Test]].
-
-### First Computers/Technologies
-##### ENIAC
-The **E**lectronic **N**umerical **I**ntegrator **A**nd **C**omputer was the first general-purpose, all digital computer. Driven by military need, designed to calculate artillery firing tables. It performed calculations approximately one thousand times faster than the best electro-mechanical machines of the time.
-##### The Transistor 
-Computers used to rely on vacuum tubes, but in 1959 a practical and compact transistor was created (the MOSFET). It is estimated that over 13 *sextillion* of them have been produced since their invention.
-##### Integrated Circuits
-The concept of an integrated circuit removed the need to build devices from individual components each time. The size, speed and capacity of chips has progressed exponentially, roughly following a pattern called [[Moore's Law]].
-##### Microprocessors
-The microprocessor takes the concept of an integrated circuit and (essentially) delivers a whole computer on a chip - what we would today call a [[CPU]].
-##### Apple I (1976)
-Early calculators had brought microchip technology to the amateur enthusiast, but it was perhaps the [[Apple I.jpg|Apple I]] which showed a full microcomputer could be sold to the public. It went on sale for $666.66 in July 1976. Their commercial success began with the [[Apple II.jpg|Apple II]] in 1977, alongside machines from other companies such as the [[Commodore PET.jpg|Commodore PET]] and [[TRS-80.jpg|TRS-80]].
-##### The Sinclair Machines
-The [[ZX80.jpg|ZX80]] was notable for being one of the first computers to be available in the UK for under £100.
-
+## Content Overview
+1. Early Computing Devices.
+2. Pioneers of Computing.
+3. First Digital Computers.
+4. Key Technological Advancements.
+5. The Evolution of Personal Computers.
 
 ---
+
+## Early Computing Devices
+- The **abacus** was one of the earliest computing devices.
+- Advanced users could perform multiplication, division, and even square/cube roots.
+- Early computers were **mechanical**, utilizing punch cards and looms for data input.
+
+---
+
+## Pioneers of Computing
+1. **Charles Babbage**:
+   - Designed mechanical calculators in the 19th century.
+   - Developed the **Difference Engine**, an early mechanical computing device.
+2. **Ada Lovelace**:
+   - Worked with Babbage on the **Analytic Engine**.
+   - Wrote the first computer "program" to compute **Bernoulli numbers**.
+3. **Alan Turing**:
+   - Regarded as the **father of computer science**.
+   - Developed the **Turing Machine**, formalizing algorithms and computation.
+   - Proposed the **Turing Test** to evaluate machine intelligence.
+
+---
+
+## First Digital Computers
+1. **ENIAC (Electronic Numerical Integrator And Computer)**:
+   - First general-purpose, all-digital computer.
+   - Developed post-WWII to calculate artillery firing tables.
+   - Performed calculations **1,000 times faster** than electro-mechanical machines.
+2. **The Transistor (1959)**:
+   - Replaced vacuum tubes, significantly reducing size and power consumption.
+   - The **MOSFET transistor** has been mass-produced over **13 sextillion** times.
+3. **Integrated Circuits**:
+   - Eliminated the need for discrete components, enhancing efficiency.
+   - Followed **Moore’s Law**, which predicts the exponential growth of chip performance.
+
+---
+
+## Evolution of Personal Computers
+1. **Microprocessors**:
+   - Integrated circuits that serve as an entire **CPU** on a single chip.
+2. **Apple I (1976)**:
+   - One of the first full microcomputers sold to the public.
+   - Priced at **$666.66** in July 1976.
+   - Followed by the commercially successful **Apple II** in 1977.
+3. **Sinclair ZX80 (1980)**:
+   - One of the first UK computers available for under **£100**.
+4. **Commodore PET & TRS-80 (1977)**:
+   - Competitors to the Apple II, helping launch the personal computing revolution.
+
+---
+
 ## Reading List
+- [Computer History Timeline](https://www.computerhistory.org/timeline/)
 
-- [ ] [https://www.computerhistory.org/timeline/](https://www.computerhistory.org/timeline/)
+---
+
+## Key Takeaways
+1. **Early computers** were mechanical and later evolved into digital systems.
+2. **Pioneers like Babbage, Lovelace, and Turing** laid the groundwork for modern computing.
+3. **Technological advancements** such as transistors, integrated circuits, and microprocessors fueled computing growth.
+4. **The personal computer era** began in the 1970s with innovations from Apple, Commodore, and Sinclair.
