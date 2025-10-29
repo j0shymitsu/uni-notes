@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// In this, the outer loop runs over the first array, and the inner loop over the second.
+// Therefore, time complexity is O(nm). If both arrays are the same length, that is O(n^2)
+
 int main()
 {
     int nums[8] = {4, 14, 50, 102, 115, 33, 70};
