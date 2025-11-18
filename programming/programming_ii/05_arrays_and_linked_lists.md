@@ -182,14 +182,6 @@ for (list<int>::iterator i = lst.begin(); i != lst.end(); ++i)
 
 ---
 
-## Practical Tasks
-### Task 1
-Write two programs that ask the user to enter a series of strings and store them in:
-- an STL **vector**
-- an STL **list**
-
-Each program should output all values entered.
-
 ### Task 2
 Write a function that accepts a collection (array or list) of integers and inserts the **square of each integer** immediately after it.
 
