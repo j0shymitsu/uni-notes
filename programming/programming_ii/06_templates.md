@@ -173,18 +173,6 @@ int main()
 
 ---
 
-## Tasks
-1. **Rectangle Template Class:**
-   - Create a template class `Rectangle<T>` with member variables `height` and `width`.
-   - Add a method `area()` that returns `height * width`.
-   - Test it with `int`, `float`, and `double` types.
-
-2. **Explore Template Recursion:**
-   - Predict what the `FACTORIAL<5>` program outputs.
-   - Modify it to compute powers instead (e.g., `2^5`).
-
----
-
 ## Summary
 - Templates make C++ code **generic**, **reusable**, and **type-safe**.
 - **Template functions** allow generic operations for any type.
