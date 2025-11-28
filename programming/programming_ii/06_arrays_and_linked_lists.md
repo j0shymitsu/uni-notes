@@ -10,7 +10,6 @@ N-D
 - The Standard Template Library (STL)
 - Iterators in the STL
 - Summary
-- Practical Tasks
 
 ---
 
