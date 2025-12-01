@@ -1,4 +1,4 @@
-# THE HEAP
+# HEAPS (DATA STRUCTURE)
 N-D
 
 ---
