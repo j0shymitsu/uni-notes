@@ -153,12 +153,6 @@ void Circle::scale(double factor)
 
 ---
 
-### Task
-- Implement the remaining `Circle` class methods. 
-- Add a **second constructor** that sets the radius to a specific value.
-
----
-
 ## Instantiating and Using Objects
 - Once a class is defined, you can declare **objects** (instances of the class). 
 - The **type** is the class name. 
