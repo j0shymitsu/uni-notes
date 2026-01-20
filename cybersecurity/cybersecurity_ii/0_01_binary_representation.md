@@ -43,5 +43,4 @@ N-D
 *\*Each byte is addressable, but 32 bit machines can pull/push 4 bytes of data at onen time, and 64-bit can do it at 8 bytes a time*
 
 ---
-## Binary Addition Process
 
