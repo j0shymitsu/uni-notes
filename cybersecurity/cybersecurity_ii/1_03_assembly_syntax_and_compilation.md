@@ -1,5 +1,5 @@
 # x86 ASSEMBLY SYNTAX: AT&T vs INTEL
-N-D
+29-01-26
 
 ---
 ## Contents
@@ -25,8 +25,7 @@ N-D
     - Reveals machine instructions in human-readable form
 
 ### Example: Main Function Disassembly (AT&T Syntax)
-```
-
+```asm
 080483eb <main>:
 80483eb:  55              push %ebp
 80483ec:  89 e5           mov %esp, %ebp
@@ -78,7 +77,6 @@ N-D
 ---
 ## AT&T vs Intel Syntax Differences
 ### Fundamental Differences
-
 | Feature | AT&T Syntax | Intel Syntax |
 |---------|-------------|--------------|
 | **Operand Order** | `mov source, dest` | `mov dest, source` |
@@ -97,7 +95,6 @@ N-D
 ---
 ## Instruction Examples
 ### Basic Move Instructions
-
 | AT&T Syntax | Intel Syntax | Description |
 |-------------|--------------|-------------|
 | `mov %esp, %ebp` | `mov ebp, esp` | Copy esp to ebp |
@@ -117,7 +114,6 @@ N-D
 ---
 ## Memory Addressing Modes
 ### Direct vs Indirect Addressing
-
 | AT&T Syntax | Intel Syntax | Description |
 |-------------|--------------|-------------|
 | `mov $0x80, %eax` | `mov eax, 80h` | Direct: Move immediate value |
@@ -166,11 +162,4 @@ N-D
 10. **Neither syntax is easier** to learn; choose based on tools and documentation you'll use.
 ```
 
-The notes follow the same format as your example, including the date format, section structure with horizontal rules, bullet points with bold definitions, markdown tables for comparisons, code blocks for examples, and a numbered summary at the end.[^1]
-
-<div align="center">⁂</div>
-
-[^1]: 1_02_core_architecture_registers.md
-
-[^2]: UKTT-Assembly-W1-1-x86-Syntax-ATT-vs-Intel.pdf
 

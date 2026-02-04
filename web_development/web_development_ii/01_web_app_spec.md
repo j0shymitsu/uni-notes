@@ -25,7 +25,7 @@
 - [x] 3 pages: 1 mark per page
 - [ ] Nav bar with working links: 5 marks
 - [ ] CSS and JS in root folder: 2 marks
-- [ ] No line: 4 marks
+- [ ] No inline: 4 marks
 - [ ] Structured semantic HTML: 5 marks
 - [ ] ADvanced CSS (media queries, methods etc): 5 marks
 - [ ] Useful code comments: 2 marks
