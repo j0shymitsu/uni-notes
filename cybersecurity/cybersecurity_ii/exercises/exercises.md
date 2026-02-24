@@ -21,4 +21,17 @@
 4. Active Recall:
     - Test myself before looking at answers
     - Explain concepts as if teaching someone
-    - 
+
+
+---
+Todo [THIS ORDER]:
+- Week 2 Skeleton ASM overview video
+- Debugging programmign using GDB
+- Week 1 worshop 2 'Looping and function calls'
+- Week 2 workshop 4 'Function calling'
+- Week 2 workshop 5 'Library calling'
+- Week 3 sequentially
+- Lay out assignment
+
+NEXT: 
+02_01 - software exploitation
